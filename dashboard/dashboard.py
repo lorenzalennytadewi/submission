@@ -7,7 +7,7 @@ import seaborn as sns
 st.set_page_config(page_title="E-commerce Dashboard", layout="wide")
 
 # Memuat data dari file CSV
-data_path = 'dashboard/main_data.csv'
+data_path = 'main_data.csv'
 main_data = pd.read_csv(data_path)
 
 # Judul Dashboard
