@@ -14,5 +14,5 @@ streamlit run dashboard.py
 
 ## Link streamlit app
 ```
-https://bicycle-dashboard-dicoding.streamlit.app
+https://e-commerce-dashboard-lorenza.streamlit.app/
 ```
